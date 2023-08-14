@@ -1,0 +1,18 @@
+{
+  "name": "gulp-slds-app",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "Taiki Yoshikawa"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/tyoshikawa1106/gulp-slds-app",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
